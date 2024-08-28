@@ -1,8 +1,8 @@
 {
   "vaultName": "Sci-Fi World",
-  "lastExport": 1724841594130,
+  "lastExport": 1724884334515,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon folder-note-underline fn-whitespace-stop-collapsing is-fullscreen writing-document check-color check-bg accent-color",
+  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon folder-note-underline fn-whitespace-stop-collapsing writing-document check-color check-bg accent-color is-fullscreen",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -171,823 +171,823 @@
   ],
   "fileInfo": {
     "General Information/Background Information.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1388,
       "exportedPath": "general-information/background-information.html",
       "dependencies": []
     },
     "General Information/Currency.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3961,
       "exportedPath": "general-information/currency.html",
       "dependencies": []
     },
     "General Information/General Information.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 895,
       "exportedPath": "general-information/general-information.html",
       "dependencies": []
     },
     "General Information/Gerranne Procedure.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1528,
       "exportedPath": "general-information/gerranne-procedure.html",
       "dependencies": []
     },
     "General Information/Interstellar Travel.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2803,
       "exportedPath": "general-information/interstellar-travel.html",
       "dependencies": []
     },
     "General Information/Kolban Alliance.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3450,
       "exportedPath": "general-information/kolban-alliance.html",
       "dependencies": []
     },
     "General Information/Kolban Pact.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2136,
       "exportedPath": "general-information/kolban-pact.html",
       "dependencies": []
     },
     "General Information/Language.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 5411,
       "exportedPath": "general-information/language.html",
       "dependencies": []
     },
     "General Information/Military.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1766,
       "exportedPath": "general-information/military.html",
       "dependencies": []
     },
     "General Information/Political and Governmental System.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2797,
       "exportedPath": "general-information/political-and-governmental-system.html",
       "dependencies": []
     },
     "General Information/Scientific Standard.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1225,
       "exportedPath": "general-information/scientific-standard.html",
       "dependencies": []
     },
     "General Information/Symbiote Triangle.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1546,
       "exportedPath": "general-information/symbiote-triangle.html",
       "dependencies": []
     },
     "General Information/Time System.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1819,
       "exportedPath": "general-information/time-system.html",
       "dependencies": []
     },
     "History/Cosmian Wars.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 13474,
       "exportedPath": "history/cosmian-wars.html",
       "dependencies": []
     },
     "History/History.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2107,
       "exportedPath": "history/history.html",
       "dependencies": []
     },
     "History/Hitch Incident.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3771,
       "exportedPath": "history/hitch-incident.html",
       "dependencies": []
     },
     "Nature/Fauna/Fauna.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 939,
       "exportedPath": "nature/fauna/fauna.html",
       "dependencies": []
     },
     "Nature/Fauna/Metallist.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1693,
       "exportedPath": "nature/fauna/metallist.html",
       "dependencies": []
     },
     "Nature/Fauna/Terroxenarch.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2105,
       "exportedPath": "nature/fauna/terroxenarch.html",
       "dependencies": []
     },
     "Nature/Fauna/Walkshire Wurm.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1919,
       "exportedPath": "nature/fauna/walkshire-wurm.html",
       "dependencies": []
     },
     "Nature/Flora/Flora.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1098,
       "exportedPath": "nature/flora/flora.html",
       "dependencies": []
     },
     "Nature/Resources/Aerolite.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1433,
       "exportedPath": "nature/resources/aerolite.html",
       "dependencies": []
     },
     "Nature/Resources/Resources.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 529,
       "exportedPath": "nature/resources/resources.html",
       "dependencies": []
     },
     "Nature/Resources/Soup.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1375,
       "exportedPath": "nature/resources/soup.html",
       "dependencies": []
     },
     "Nature/Nature.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 794,
       "exportedPath": "nature/nature.html",
       "dependencies": []
     },
     "Organisations/Aerolite Mining Corps.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 831,
       "exportedPath": "organisations/aerolite-mining-corps.html",
       "dependencies": []
     },
     "Organisations/AeroTech.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 704,
       "exportedPath": "organisations/aerotech.html",
       "dependencies": []
     },
     "Organisations/Bleak Enterprise.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1036,
       "exportedPath": "organisations/bleak-enterprise.html",
       "dependencies": []
     },
     "Organisations/Borfrice Bionics Engineering Company.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1191,
       "exportedPath": "organisations/borfrice-bionics-engineering-company.html",
       "dependencies": []
     },
     "Organisations/Followers of the Black Pearl.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1241,
       "exportedPath": "organisations/followers-of-the-black-pearl.html",
       "dependencies": []
     },
     "Organisations/Fox Corporation.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1048,
       "exportedPath": "organisations/fox-corporation.html",
       "dependencies": []
     },
     "Organisations/Frank's Fission and Fusion.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 938,
       "exportedPath": "organisations/frank's-fission-and-fusion.html",
       "dependencies": []
     },
     "Organisations/Gerranne Rotunda Project.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1096,
       "exportedPath": "organisations/gerranne-rotunda-project.html",
       "dependencies": []
     },
     "Organisations/GoalKeep.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 934,
       "exportedPath": "organisations/goalkeep.html",
       "dependencies": []
     },
     "Organisations/Grenund Constructive.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 950,
       "exportedPath": "organisations/grenund-constructive.html",
       "dependencies": []
     },
     "Organisations/Harry's Heatworks.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 936,
       "exportedPath": "organisations/harry's-heatworks.html",
       "dependencies": []
     },
     "Organisations/KunaiTech.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 322,
       "exportedPath": "organisations/kunaitech.html",
       "dependencies": []
     },
     "Organisations/Lance Innovations.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 741,
       "exportedPath": "organisations/lance-innovations.html",
       "dependencies": []
     },
     "Organisations/Mansteid Auto.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 989,
       "exportedPath": "organisations/mansteid-auto.html",
       "dependencies": []
     },
     "Organisations/Matchik Technologies.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 892,
       "exportedPath": "organisations/matchik-technologies.html",
       "dependencies": []
     },
     "Organisations/Mejir & Cron.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1132,
       "exportedPath": "organisations/mejir-&-cron.html",
       "dependencies": []
     },
     "Organisations/Organisations.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1682,
       "exportedPath": "organisations/organisations.html",
       "dependencies": []
     },
     "Organisations/Payne Explotech.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 795,
       "exportedPath": "organisations/payne-explotech.html",
       "dependencies": []
     },
     "Organisations/Plurge Weapon Solutions.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1055,
       "exportedPath": "organisations/plurge-weapon-solutions.html",
       "dependencies": []
     },
     "Organisations/Primus Manufacturing.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 823,
       "exportedPath": "organisations/primus-manufacturing.html",
       "dependencies": []
     },
     "Organisations/Prodigy Systems.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 631,
       "exportedPath": "organisations/prodigy-systems.html",
       "dependencies": []
     },
     "Organisations/Red Herrings.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 828,
       "exportedPath": "organisations/red-herrings.html",
       "dependencies": []
     },
     "Organisations/Rosten Company.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1127,
       "exportedPath": "organisations/rosten-company.html",
       "dependencies": []
     },
     "Organisations/SharpTack.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 733,
       "exportedPath": "organisations/sharptack.html",
       "dependencies": []
     },
     "Organisations/Sideways Collective Industries.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1504,
       "exportedPath": "organisations/sideways-collective-industries.html",
       "dependencies": []
     },
     "Organisations/Supreme Function.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 897,
       "exportedPath": "organisations/supreme-function.html",
       "dependencies": []
     },
     "Organisations/The Humanoid Group.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 308,
       "exportedPath": "organisations/the-humanoid-group.html",
       "dependencies": []
     },
     "Organisations/The Journalists.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 734,
       "exportedPath": "organisations/the-journalists.html",
       "dependencies": []
     },
     "Organisations/Topman Dynamics.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 937,
       "exportedPath": "organisations/topman-dynamics.html",
       "dependencies": []
     },
     "Organisations/Turf Mining.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 704,
       "exportedPath": "organisations/turf-mining.html",
       "dependencies": []
     },
     "Organisations/Umbra Organisation.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 674,
       "exportedPath": "organisations/umbra-organisation.html",
       "dependencies": []
     },
     "Organisations/Vice Development.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 843,
       "exportedPath": "organisations/vice-development.html",
       "dependencies": []
     },
     "Organisations/Vleil Starworks.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 860,
       "exportedPath": "organisations/vleil-starworks.html",
       "dependencies": []
     },
     "Organisations/Wilde Manufacturing Co..md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 723,
       "exportedPath": "organisations/wilde-manufacturing-co..html",
       "dependencies": []
     },
     "Organisations/Yagachi Electric.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 909,
       "exportedPath": "organisations/yagachi-electric.html",
       "dependencies": []
     },
     "People/Assimilis, Aerin.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 835,
       "exportedPath": "people/assimilis,-aerin.html",
       "dependencies": []
     },
     "People/Bleak, Richard.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 801,
       "exportedPath": "people/bleak,-richard.html",
       "dependencies": []
     },
     "People/Borfrice, Becca.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 733,
       "exportedPath": "people/borfrice,-becca.html",
       "dependencies": []
     },
     "People/Cirus, Yandavich.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 695,
       "exportedPath": "people/cirus,-yandavich.html",
       "dependencies": []
     },
     "People/Colbet, Plexi.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 632,
       "exportedPath": "people/colbet,-plexi.html",
       "dependencies": []
     },
     "People/Craset, Feshmer.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 629,
       "exportedPath": "people/craset,-feshmer.html",
       "dependencies": []
     },
     "People/Cron, Aot.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 662,
       "exportedPath": "people/cron,-aot.html",
       "dependencies": []
     },
     "People/Ennascher, Fayren.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 711,
       "exportedPath": "people/ennascher,-fayren.html",
       "dependencies": []
     },
     "People/Gerranne, Yun.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 639,
       "exportedPath": "people/gerranne,-yun.html",
       "dependencies": []
     },
     "People/Grenund, Stav.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 738,
       "exportedPath": "people/grenund,-stav.html",
       "dependencies": []
     },
     "People/Herring, Saber.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 754,
       "exportedPath": "people/herring,-saber.html",
       "dependencies": []
     },
     "People/Himms, Ian.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 804,
       "exportedPath": "people/himms,-ian.html",
       "dependencies": []
     },
     "People/Hitch, Zing.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 687,
       "exportedPath": "people/hitch,-zing.html",
       "dependencies": []
     },
     "People/Jones, Jack.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 994,
       "exportedPath": "people/jones,-jack.html",
       "dependencies": []
     },
     "People/Jurie, Theian.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 795,
       "exportedPath": "people/jurie,-theian.html",
       "dependencies": []
     },
     "People/Lender, Pilo.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1024,
       "exportedPath": "people/lender,-pilo.html",
       "dependencies": []
     },
     "People/Maestro, Playce.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 702,
       "exportedPath": "people/maestro,-playce.html",
       "dependencies": []
     },
     "People/Mansteid, Dissesh.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 786,
       "exportedPath": "people/mansteid,-dissesh.html",
       "dependencies": []
     },
     "People/Match, Yulo.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1098,
       "exportedPath": "people/match,-yulo.html",
       "dependencies": []
     },
     "People/Mejir, Eppimos.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 639,
       "exportedPath": "people/mejir,-eppimos.html",
       "dependencies": []
     },
     "People/Payne, Larry.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 700,
       "exportedPath": "people/payne,-larry.html",
       "dependencies": []
     },
     "People/People.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1434,
       "exportedPath": "people/people.html",
       "dependencies": []
     },
     "People/Pergot, Nivian.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 689,
       "exportedPath": "people/pergot,-nivian.html",
       "dependencies": []
     },
     "People/Plurge, Hrechi.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 853,
       "exportedPath": "people/plurge,-hrechi.html",
       "dependencies": []
     },
     "People/Potte, Jannis.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 726,
       "exportedPath": "people/potte,-jannis.html",
       "dependencies": []
     },
     "People/Reduction, Granule.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1022,
       "exportedPath": "people/reduction,-granule.html",
       "dependencies": []
     },
     "People/Regull, Fraser.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 936,
       "exportedPath": "people/regull,-fraser.html",
       "dependencies": []
     },
     "People/Rettik, Gabriel.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 756,
       "exportedPath": "people/rettik,-gabriel.html",
       "dependencies": []
     },
     "People/Rosten, Derrick.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 817,
       "exportedPath": "people/rosten,-derrick.html",
       "dependencies": []
     },
     "People/Rosten, Milo.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 874,
       "exportedPath": "people/rosten,-milo.html",
       "dependencies": []
     },
     "People/Shelldau, Winta.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 772,
       "exportedPath": "people/shelldau,-winta.html",
       "dependencies": []
     },
     "People/Smith, Frank.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 897,
       "exportedPath": "people/smith,-frank.html",
       "dependencies": []
     },
     "People/Smith, Harry.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 852,
       "exportedPath": "people/smith,-harry.html",
       "dependencies": []
     },
     "People/Turf, Pas.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 750,
       "exportedPath": "people/turf,-pas.html",
       "dependencies": []
     },
     "People/Unthur, Necto.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 735,
       "exportedPath": "people/unthur,-necto.html",
       "dependencies": []
     },
     "People/Vleil, Simeritus.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1090,
       "exportedPath": "people/vleil,-simeritus.html",
       "dependencies": []
     },
     "People/Wethal, Antill.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 736,
       "exportedPath": "people/wethal,-antill.html",
       "dependencies": []
     },
     "People/Wilde, Lecster.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 746,
       "exportedPath": "people/wilde,-lecster.html",
       "dependencies": []
     },
     "People/Wilting, Bill.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1108,
       "exportedPath": "people/wilting,-bill.html",
       "dependencies": []
     },
     "People/Yagachi, Sudo.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 820,
       "exportedPath": "people/yagachi,-sudo.html",
       "dependencies": []
     },
     "Races/Autogenis.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3660,
       "exportedPath": "races/autogenis.html",
       "dependencies": []
     },
     "Races/Cindus.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3128,
       "exportedPath": "races/cindus.html",
       "dependencies": []
     },
     "Races/Dottian.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2736,
       "exportedPath": "races/dottian.html",
       "dependencies": []
     },
     "Races/Grandusk.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2767,
       "exportedPath": "races/grandusk.html",
       "dependencies": []
     },
     "Races/Human.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2851,
       "exportedPath": "races/human.html",
       "dependencies": []
     },
     "Races/Linc.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3005,
       "exportedPath": "races/linc.html",
       "dependencies": []
     },
     "Races/Myriad.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3832,
       "exportedPath": "races/myriad.html",
       "dependencies": []
     },
     "Races/Races.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 911,
       "exportedPath": "races/races.html",
       "dependencies": []
     },
     "Races/Sleethier.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2712,
       "exportedPath": "races/sleethier.html",
       "dependencies": []
     },
     "Races/Wythin.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2562,
       "exportedPath": "races/wythin.html",
       "dependencies": []
     },
     "Races/Xanfer.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 2701,
       "exportedPath": "races/xanfer.html",
       "dependencies": []
     },
     "Changelog.md": {
-      "modifiedTime": 1724841594130,
-      "sourceSize": 1022,
+      "modifiedTime": 1724884334515,
+      "sourceSize": 1188,
       "exportedPath": "changelog.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1724841594130,
-      "sourceSize": 421,
+      "modifiedTime": 1724884334515,
+      "sourceSize": 423,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Sci-Fi World.md": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 3777,
       "exportedPath": "sci-fi-world.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 711831,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 961,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1724841594130,
+      "modifiedTime": 1724884334515,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
